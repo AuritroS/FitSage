@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fit Sage</string>
+        <string-array name="fitness_levels">
+            <item>Beginner</item>
+            <item>Intermediate</item>
+            <item>Advanced</item>
+        </string-array>
+
+        <string-array name="goals">
+            <item>Weight Loss</item>
+            <item>Strength</item>
+            <item>Endurance</item>
+        </string-array>
+</resources>

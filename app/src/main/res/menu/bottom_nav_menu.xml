@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_chat"
+        android:icon="@drawable/ic_chat"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/menu_generator"
+        android:icon="@drawable/ic_workout"
+        android:title="Generate" />
+
+    <item
+        android:id="@+id/menu_detail"
+        android:icon="@drawable/ic_details"
+        android:title="Workout" />
+
+    <item
+        android:id="@+id/menu_history"
+        android:icon="@drawable/ic_history"
+        android:title="History" />
+
+
+
+</menu>

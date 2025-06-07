@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemRoot"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="?attr/selectableItemBackground"
+    android:padding="12dp"
+    android:layout_marginVertical="4dp">
+
+    <TextView
+        android:id="@+id/textWorkoutDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2025-06-06"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/textExerciseSummary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Push-ups (3×12), Squats (3×15), Plank (60s)"
+        android:textSize="14sp"
+        android:textColor="#555" />
+
+</LinearLayout>
